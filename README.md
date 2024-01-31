@@ -1,8 +1,10 @@
-# Team CHAVJ-GPT presents Relief
-## A real-time wildfire preparedness and communication app, leveraging OpenFEMA API and React Native for iOS/Android
+# **Relief**
+## by Team CHAVJ-GPT
+### A real-time wildfire preparedness and communication app, leveraging OpenFEMA API and React Native for iOS/Android.
 
-## Recommended next steps:
+## Installation and usage:
 Note: Make sure you have installed native code dependencies [here](https://reactnative.dev/docs/environment-setup#installing-dependencies)
+Note: Runs locally on any machine that supports npm/npx.
 
 ### To preview and run the project on your device:
 1. Open project folder in <u>Visual Studio Code</u>
