@@ -5,6 +5,8 @@
 ## About:
 Developed by Team CHAVJ-GPT, a group of five Wolverine designers and developers, Relief is a wildfire preparedness and communication app seeking to alleviate fear and mitigate problems caused by perennial wildfires in the American west. Providing the ability to track  fires, view relevant local emergency information, link emergency contacts, and communicate with nearby community members for disaster preparedness, Relief aims to be everything someone in an at-risk fire zone needs to keep their peace of mind.
 
+Relief utilizes the latest information from FEMA and localized social networks to provide the most helpful information and assistance possible.
+
 ![image](https://github.com/jackdeuser/relief-wildfire-app/assets/73807221/98226d6c-d9e9-4748-a1b6-f7d3c117d9e0)
 
 ## Installation and usage:
